@@ -1,9 +1,0 @@
-{
-    "createdByUser": true,
-    "fileName": "teams.csv",
-    "oid": "151554d8-6a22-4542-a060-6d0285814c21",
-    "provider": "CSV",
-    "schema": "/opt/sisense/storage/datasets/storage/cf/cf6b85a7-484a-4312-abcc-6eb389d0bd06.csv",
-    "uiParams": {
-    }
-}

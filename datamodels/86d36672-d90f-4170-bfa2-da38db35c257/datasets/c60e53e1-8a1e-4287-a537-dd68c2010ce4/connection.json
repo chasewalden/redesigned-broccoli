@@ -1,9 +1,0 @@
-{
-    "createdByUser": true,
-    "fileName": "player_master.csv",
-    "oid": "cadb5357-62b2-45fa-aab9-5758952ff173",
-    "provider": "CSV",
-    "schema": "/opt/sisense/storage/datasets/storage/9f/9ff10ffa-74d3-4dfa-9fc9-03c1d6d35a42.csv",
-    "uiParams": {
-    }
-}
