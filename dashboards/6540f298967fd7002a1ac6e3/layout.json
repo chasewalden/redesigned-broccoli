@@ -1,0 +1,62 @@
+{
+    "layout": {
+        "columns": [
+            {
+                "cells": [
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 128,
+                                        "height": 128,
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 64,
+                                        "minWidth": 64,
+                                        "widgetid": "654130d6967fd7002a1ac6ef"
+                                    }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 1032,
+                                "stretchable": false,
+                                "width": 100
+                            }
+                        ]
+                    },
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "autoHeight": "772px",
+                                        "defaultWidth": 512,
+                                        "height": "772px",
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 128,
+                                        "minWidth": 128,
+                                        "widgetid": "6540f2a9967fd7002a1ac6e5"
+                                    }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 1032,
+                                "stretchable": false,
+                                "width": 100
+                            }
+                        ]
+                    }
+                ],
+                "index": 0,
+                "pxlWidth": 1032,
+                "width": 100
+            }
+        ],
+        "container": {
+        },
+        "instanceid": "C0A07-4F0F-90",
+        "type": "columnar"
+    },
+    "previewLayout": [
+    ]
+}

@@ -1,0 +1,1 @@
+"SELECT m.[Visit ID], CONCAT('Brand:', b.[Brand]) as BrandOrCountry FROM [Commerce] m JOIN [Brand] b on m.[Brand ID] = b.[Brand ID]\nUNION\nSELECT m.[Visit ID], CONCAT('Country:', c.[Country]) as BrandOrCountry FROM [Commerce] m JOIN [Country] c on m.[Country ID] = c.[Country ID]\n"

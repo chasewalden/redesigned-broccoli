@@ -1,0 +1,9 @@
+{
+    "createdByUser": true,
+    "fileName": "player_stats_final.csv",
+    "oid": "b4bee4fc-9316-40c3-aa21-30fb2d0cfbd5",
+    "provider": "CSV",
+    "schema": "/opt/sisense/storage/datasets/storage/90/90c633e4-9fea-47f4-9325-bd84af1f0c7b.csv",
+    "uiParams": {
+    }
+}
