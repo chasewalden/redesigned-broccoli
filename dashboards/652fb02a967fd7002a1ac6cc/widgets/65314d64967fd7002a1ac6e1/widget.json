@@ -44,11 +44,10 @@
         },
         "triggersDomready": true
     },
-    "realTimeRefreshing": false,
     "style": {
         "content": {
             "bgColor": "#FFFFFF",
-            "html": "",
+            "html": "<font size=\"5\">Hello World</font>",
             "textAlign": "center",
             "vAlign": "valign-middle"
         }

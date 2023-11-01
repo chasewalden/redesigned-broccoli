@@ -90,7 +90,6 @@
         "supportsHierarchies": false,
         "triggersDomready": true
     },
-    "realTimeRefreshing": false,
     "style": {
         "components": {
             "icon": {
