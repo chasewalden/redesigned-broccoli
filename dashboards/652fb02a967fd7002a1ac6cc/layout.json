@@ -1,0 +1,57 @@
+{
+    "layout": {
+        "columns": [
+            {
+                "cells": [
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 512,
+                                        "height": 192,
+                                        "maxHeight": 1028,
+                                        "maxWidth": 1028,
+                                        "minHeight": 64,
+                                        "minWidth": 48,
+                                        "widgetid": "65311fdb967fd7002a1ac6dc"
+                                    }
+                                ],
+                                "index": 0,
+                                "pxlWidth": 1239,
+                                "stretchable": false,
+                                "width": 100
+                            }
+                        ]
+                    },
+                    {
+                        "subcells": [
+                            {
+                                "elements": [
+                                    {
+                                        "defaultWidth": 128,
+                                        "height": 128,
+                                        "maxHeight": 2048,
+                                        "maxWidth": 2048,
+                                        "minHeight": 64,
+                                        "minWidth": 64,
+                                        "widgetid": "65314d64967fd7002a1ac6e1"
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                ],
+                "index": 0,
+                "pxlWidth": 1239,
+                "width": 100
+            }
+        ],
+        "container": {
+        },
+        "instanceid": "6F055-D1A5-AB",
+        "type": "columnar"
+    },
+    "previewLayout": [
+    ]
+}

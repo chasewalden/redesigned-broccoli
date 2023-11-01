@@ -1,0 +1,38 @@
+{
+    "dataExploration": false,
+    "datasource": {
+        "address": "LocalHost",
+        "database": "anfl",
+        "fullname": "localhost/nfl",
+        "id": "localhost_anfl",
+        "live": false,
+        "title": "nfl"
+    },
+    "desc": "",
+    "filters": "./filters.json",
+    "hierarchies": [
+    ],
+    "layout": "./layout.json",
+    "oid": "652fb02a967fd7002a1ac6cc",
+    "settings": {
+        "autoUpdateOnFiltersChange": true
+    },
+    "style": {
+        "palette": {
+            "colors": [
+                "#ed0e3a",
+                "#757575",
+                "#c60c31",
+                "#9e0927",
+                "#013368",
+                "#171717"
+            ],
+            "name": "wwwnflcom"
+        }
+    },
+    "title": "nfl",
+    "widgets": [
+        "./widgets/65311fdb967fd7002a1ac6dc/widget.json",
+        "./widgets/65314d64967fd7002a1ac6e1/widget.json"
+    ]
+}
