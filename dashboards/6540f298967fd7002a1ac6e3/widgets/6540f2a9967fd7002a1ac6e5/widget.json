@@ -117,7 +117,6 @@
         "selector": false,
         "triggersDomready": true
     },
-    "realTimeRefreshing": false,
     "style": {
         "automaticHeight": true,
         "colors": {

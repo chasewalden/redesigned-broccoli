@@ -20,14 +20,14 @@
     "style": {
         "palette": {
             "colors": [
-                "#ed0e3a",
-                "#757575",
-                "#c60c31",
-                "#9e0927",
-                "#013368",
-                "#171717"
+                "#00cee6",
+                "#9b9bd7",
+                "#6EDA55",
+                "#fc7570",
+                "#fbb755",
+                "#218A8C"
             ],
-            "name": "wwwnflcom"
+            "name": "Vivid"
         }
     },
     "title": "nfl",

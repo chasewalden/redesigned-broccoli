@@ -44,7 +44,6 @@
         },
         "triggersDomready": true
     },
-    "realTimeRefreshing": false,
     "script": "./script.js",
     "style": {
         "content": {

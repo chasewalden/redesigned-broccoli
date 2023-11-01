@@ -44,7 +44,6 @@
         },
         "triggersDomready": true
     },
-    "realTimeRefreshing": false,
     "style": {
         "content": {
             "bgColor": "#FFFFFF",
